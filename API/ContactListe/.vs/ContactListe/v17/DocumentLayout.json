@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|solutionrelative:contactliste\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|p:\\users\\cheri\\source\\repos\\project_contacts\\api\\contactliste\\contactliste\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|solutionrelative:contactliste\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|p:\\users\\cheri\\source\\repos\\project_contacts\\api\\contactliste\\contactliste\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|solutionrelative:contactliste\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|p:\\users\\cheri\\source\\repos\\project_contacts\\api\\contactliste\\contactliste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|solutionrelative:contactliste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|p:\\users\\cheri\\source\\repos\\project_contacts\\api\\contactliste\\contactliste\\contactliste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|solutionrelative:contactliste\\contactliste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|p:\\users\\cheri\\source\\repos\\project_contacts\\api\\contactliste\\contactliste\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5976F10D-E10F-4EC7-B52E-5A6A0A54425C}|ContactListe\\ContactListe.csproj|solutionrelative:contactliste\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +54,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "ContactListe\\Models\\AddContactRequestDTO.cs",
+              "ToolTip": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "ContactListe\\Models\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:43:07.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContactsController.cs",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "ContactListe\\Controllers\\ContactsController.cs",
               "ToolTip": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "ContactListe\\Controllers\\ContactsController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAApAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T14:27:10.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20240821142532_FistInitDataBaseCantactListe.cs",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Migrations\\20240821142532_FistInitDataBaseCantactListe.cs",
               "RelativeDocumentMoniker": "ContactListe\\Migrations\\20240821142532_FistInitDataBaseCantactListe.cs",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\appsettings.json",
               "RelativeDocumentMoniker": "ContactListe\\appsettings.json",
@@ -89,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Program.cs",
               "RelativeDocumentMoniker": "ContactListe\\Program.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ContatsDbContext.cs",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Data\\ContatsDbContext.cs",
               "RelativeDocumentMoniker": "ContactListe\\Data\\ContatsDbContext.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ContactListe",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\ContactListe.csproj",
               "RelativeDocumentMoniker": "ContactListe\\ContactListe.csproj",
@@ -128,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Contact.cs",
               "DocumentMoniker": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Models\\Domain\\Contact.cs",
               "RelativeDocumentMoniker": "ContactListe\\Models\\Domain\\Contact.cs",
               "ToolTip": "P:\\Users\\cheri\\source\\repos\\Project_Contacts\\API\\ContactListe\\ContactListe\\Models\\Domain\\Contact.cs",
               "RelativeToolTip": "ContactListe\\Models\\Domain\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T13:48:37.782Z",
               "EditorCaption": ""
